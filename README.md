@@ -1,4 +1,4 @@
-<h2 align="left">Alooo 👋! saya Ali dari kelompok 5 praktikum Algoritma dan Struktur Data</h2>
+<h2 align="left">Alooo 👋! </h2>
 
 ###
 
